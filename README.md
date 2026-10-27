@@ -7,6 +7,7 @@ Deadalus: https://greek-frog-studios.itch.io/deadalus
 
 ## About me
 I like programming, video games, and philosophy (and a bunch of other stuff but these are the big three at least as of now).
+
 I _sometimes_ write essays about this stuff so if you want to read them you can check them out here: 
 
 ## Contacts
