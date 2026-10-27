@@ -4,6 +4,7 @@ Deadalus: https://greek-frog-studios.itch.io/deadalus
 - This is a survival horror strategy game for which I was a lead gameplay designer.
 - I did a lot of programming for it
 - I also did sound effects and level design (about 1/3 of the game's levels are mine)
+  
 Brewhaha: https://armenianbro.itch.io/brewhaha
 - DGA Fall 2026 Game Jam Winner
 - A word manipulation puzzle game where you try to win an election against the current mayor
